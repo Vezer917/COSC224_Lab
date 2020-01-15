@@ -13,8 +13,8 @@ R: Griffin_Richard
 R: Komodo_Dragon_Richard
 R: Eagle_Richard
 R:
-T:
-T:
-T:
-T:
+T: BullShark_Tristan
+T: SeaCucumber_Tristan
+T: Crow_Tristan
+T: Snake_Tristan
 T:
