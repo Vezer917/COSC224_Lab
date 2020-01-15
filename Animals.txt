@@ -10,8 +10,8 @@ J:
 J:
 R: Bobcats_Richard
 R: Griffin_Richard
-R:
-R:
+R: Komodo_Dragon_Richard
+R: Eagle_Richard
 R:
 T:
 T:
