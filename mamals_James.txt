@@ -2,4 +2,3 @@ Bear
 Ape
 Dog
 Cat
-Rat
