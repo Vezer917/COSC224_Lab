@@ -2,11 +2,11 @@ C: Raven_Colin
 C: Pellican_Colin
 C: Lizard_Colin
 C: Clownfish_Colin
-C:
-J:
-J:
-J:
-J:
+C: 
+J: Bear_James
+J: Ape_James
+J: Dog_James
+J: Cat_James
 J:
 R: Bobcats_Richard
 R: Griffin_Richard
